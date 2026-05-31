@@ -9,11 +9,7 @@ A Python-based banking system with secure account access.
 - 💸 Withdraw money (with balance check)
 - 📊 Account details display
 
-## How to Run
-```bash
-python Bank.py
-
-Developer
+##Developer
 Ashish Nandi
 🐍 Python Developer | 17 years old
 🎮 Future Game Developer & AI Engineer
@@ -21,3 +17,7 @@ Technologies
 Python 3
 OOP (Object Oriented Programming)
 Random Module
+
+## How to Run
+```bash
+python Bank.py
