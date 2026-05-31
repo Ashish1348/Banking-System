@@ -9,7 +9,7 @@ A Python-based banking system with secure account access.
 - 💸 Withdraw money (with balance check)
 - 📊 Account details display
 
-##Developer
+## Developer
 Ashish Nandi
 🐍 Python Developer | 17 years old
 🎮 Future Game Developer & AI Engineer
